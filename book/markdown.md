@@ -19,8 +19,7 @@ abstract: |
 exports:
   - format: docx
   - format: pdf
-  - format: typst
-    template: lapreprint-typst
+
 ---
 
 # Introduction to Open Publishing
